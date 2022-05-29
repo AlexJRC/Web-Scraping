@@ -21,7 +21,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você possui espaço suficiente para armazenar as imagens que serão baixadas `aproximadamente 2 GB por classe`.
 
 
-## ☕ Usando <Web Scraping>
+## ☕ Utilizando <Web Scraping>
 
 Para usar <Web Scraping>, siga estas etapas:
 1. Colocar o Notebook em uma pasta que deseja baixar as imagens.
