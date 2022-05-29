@@ -21,18 +21,17 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você possui espaço suficiente para armazenar as imagens que serão baixadas `aproximadamente 2 GB por classe`.
 
 
-## ☕ Usando <nome_do_projeto>
+## ☕ Usando <Web Scraping>
 
 Para usar <Web Scraping>, siga estas etapas:
 1. Colocar o Notebook em uma pasta que deseja baixar as imagens.
 2. Executar o Notebook.
 ```
-<[exemplo_de_uso](https://www.youtube.com/watch?v=ukuy2XXirTU)>
+<[https://www.youtube.com/watch?v=ukuy2XXirTU]>
 ```
 
 
-## 📝 Licença
+## 📝 Observações
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
-
+Como este modelo de Web Scraping extrai as informações do site (https://www.shipspotting.com/), qualquer alteração no layout da página pode deixar os códigos inválidos, sendo necessário uma reavaliação do mesmo.
 [⬆ Voltar ao topo](#nome-do-projeto)<br>
