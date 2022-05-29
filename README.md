@@ -15,37 +15,24 @@ O Web Scraping ou Web Extraction é uma técnica eficiente amplamente conhecida 
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
-<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-* Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-* Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
+* Você instalou a versão mais recente do `Anaconda`
+* * Você instalou a versão mais recente do `Python`
+* Você tem uma máquina `<Windows / Linux / Mac>`.
+* Você possui espaço suficiente para armazenar as imagens que serão baixadas `aproximadamente 2 GB por classe`.
 
-## 🚀 Instalando <nome_do_projeto>
-
-Para instalar o <nome_do_projeto>, siga estas etapas:
-
-Linux e macOS:
-```
-<comando_de_instalação>
-```
-
-Windows:
-```
-<comando_de_instalação>
-```
 
 ## ☕ Usando <nome_do_projeto>
 
-Para usar <nome_do_projeto>, siga estas etapas:
-
+Para usar <Web Scraping>, siga estas etapas:
+1. Colocar o Notebook em uma pasta que deseja baixar as imagens.
+2. Executar o Notebook.
 ```
-<exemplo_de_uso>
+<[exemplo_de_uso](https://www.youtube.com/watch?v=ukuy2XXirTU)>
 ```
 
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
 
 ## 📫 Contribuindo para <nome_do_projeto>
-<!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
+
 Para contribuir com <nome_do_projeto>, siga estas etapas:
 
 1. Bifurque este repositório.
