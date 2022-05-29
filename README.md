@@ -10,16 +10,7 @@
 
 <img src="web.png" alt="web">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
-### Ajustes e melhorias
-
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
-
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+O Web Scraping ou Web Extraction é uma técnica eficiente amplamente conhecida e poderosa para coletar grandes volumes de dados, e devido a sua importância essa ferramenta é de suma utilidade na obtenção de informações, de modo que, através dela é possivel se construir banco de dados
 
 ## 💻 Pré-requisitos
 
